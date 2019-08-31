@@ -1,0 +1,23 @@
+\documentclass[10pt,a4paper]{article}
+%kieli asetukset
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[finnish]{babel}
+%luettelo asetus
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{venndiagram}
+
+\usepackage{mathtools}
+
+\pagestyle{empty}
+
+
+\title{Otsikko tähän}
+
+\begin{document}
+
+\maketitle
+\end{document}
